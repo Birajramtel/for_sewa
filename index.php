@@ -151,7 +151,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col">`
                     <div class="card bg-dark text-white">
                         <img src="img/Recent_news_2.png" class="card-img" alt="...">
                         <div class="card-img-overlay">
