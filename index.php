@@ -21,13 +21,13 @@
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark p-md-3" id="bg_nav">
         <div class="container">
             <a class="navbar-brand" href="index.php">
-                <img src="img/logo.png" alt="">
+                <img src="img/logo.png" class="img-fluid" alt="Logo of ForSewa">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
-                <div class="mx-auto">
+                <div class="float-end">
                     <ul class="navbar-nav">
                         <li class="nav-item">
                             <a class="nav-link active" href="index.php">Home</a>
@@ -36,7 +36,7 @@
                             <a class="nav-link text-white" href="about.php">About us</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-white" href="activites.php">Activities</a>
+                            <a class="nav-link text-white" href="activities.php">Activities</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-white" href="investor.php">Investor</a>
@@ -96,19 +96,19 @@
                 <div class="card text-center">
                     <img src="img/activities_1.png" class="card-img" alt="Import and Export">
                     <div class="card-img-overlay">
-                        <h3 class="card-body p-5 m-5 text-white">Import and Export</h3>
+                        <h3 class="card-body img-fluid text-white">Import and Export</h3>
                     </div>
                 </div>
                 <div class="card text-center">
                     <img src="img/activities_2.png" class="card-img" alt="Hardware">
                     <div class="card-img-overlay">
-                        <h3 class="card-body p-5 m-5 text-white">Hardware</h3>
+                        <h3 class="card-body text-white">Hardware</h3>
                     </div>
                 </div>
                 <div class="card text-center">
                     <img src="img/activities_3.png" class="card-img" alt="Real Estate">
                     <div class="card-img-overlay">
-                        <h3 class="card-body p-5 m-5 text-white">Real Estate</h3>
+                        <h3 class="card-body img-fluid text-white">Real Estate</h3>
                     </div>
                 </div>                
             </div>
@@ -116,19 +116,19 @@
                 <div class="card text-center">
                     <img src="img/activities_4.png" class="card-img" alt="Foods and Grains">
                     <div class="card-img-overlay">
-                        <h3 class="card-body p-5 m-5 text-white">Foods and Grains</h3>
+                        <h3 class="card-body img-fluid text-white">Foods and Grains</h3>
                     </div>
                 </div> 
                 <div class="card text-center">
                     <img src="img/activities_5.png" class="card-img" alt="Construction">
                     <div class="card-img-overlay">
-                        <h3 class="card-body p-5 m-5 text-white">Construction</h3>
+                        <h3 class="card-body img-fluid text-white">Construction</h3>
                     </div>
                 </div> 
                 <div class="card text-center">
                     <img src="img/activities_6.png" class="card-img" alt="Machineries">
                     <div class="card-img-overlay">
-                        <h3 class="card-body p-5 m-5 text-white">Machineries</h3>
+                        <h3 class="card-body img-fluid text-white">Machineries</h3>
                     </div>
                 </div> 
             </div>
@@ -136,19 +136,19 @@
                 <div class="card text-center">
                     <img src="img/activities_7.png" class="card-img" alt="IT services">
                     <div class="card-img-overlay">
-                        <h3 class="card-body p-5 m-5 text-white">IT services</h3>
+                        <h3 class="card-body img-fluid text-white">IT services</h3>
                     </div>
                 </div> 
                 <div class="card text-center">
                     <img src="img/activities_8.png" class="card-img" alt="Electronics">
                     <div class="card-img-overlay">
-                        <h3 class="card-body p-5 m-5 text-white">Electronics</h3>
+                        <h3 class="card-body img-fluid text-white">Electronics</h3>
                     </div>
                 </div> 
                 <div class="card text-center">
                     <img src="img/activities_9.png" class="card-img" alt="Fashion Hub">
                     <div class="card-img-overlay">
-                        <h3 class="card-body p-5 m-5 text-white">Fashion Hub</h3>
+                        <h3 class="card-body img-fluid text-white">Fashion Hub</h3>
                     </div>
                 </div> 
             </div>
@@ -163,57 +163,57 @@
         </div>
         <!-- Image session Closed -->
 
-        <!-- Recent activities Session Opened -->
-        <div class="container mt-5">
-            <h2>Recent Activities</h2>
+    <!-- Recent activities Session Opened -->
+       <div class="container mt-5">
+            <h2 class="mb-5">Recent Activities</h2>
             <div class="row row-cols-1 row-cols-md-2 g-4">
-                <div class="col">
+                <div class="col-md-6">
                     <div class="card bg-dark text-white">
                         <img src="img/Recent_news_1.png" class="card-img" alt="Recent News">
-                        <div class="card-img-overlay  p-5">
+                        <div class="card-img-overlay recent_activites">
                             <div class="card_bottom pt-5 mt-5">
-                                <h5 class="pt-5 mt-5">Card title</h5>
-                                <p>This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                <p class="pt-5 mt-5">
+                                    Programiz: An e-Learning Platform from Nepal has now Reached 15 Million pageviews/month in the Global 
+                                    Market.
+                                </p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-md-6">
                     <div class="card bg-dark text-white">
                         <img src="img/Recent_news_2.png" class="card-img" alt="Recent News">
-                        <div class="card-img-overlay p-5">
+                        <div class="card-img-overlay recent_activites">
                             <div class="card_bottom pt-5 mt-5">
-                                <h5 class="pt-5 mt-5">Card title</h5>
-                                <p>This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                <p class="pt-5 mt-5">Facebook Messanger calls and Instagram DM  gets end to end encryption</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-md-6">
                     <div class="card bg-dark text-white">
                         <img src="img/Recent_news_3.png" class="card-img-top" alt="Recent News">
-                        <div class="card-img-overlay p-5">
+                        <div class="card-img-overlay recent_activites">
                             <div class="card_bottom pt-5 mt-5">
-                                <h5 class="pt-5 mt-5">Card title</h5>
-                                <p>This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                <p class="pt-5 mt-5">Forsewa becomes one of the best online selling portal.</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-md-6">
                     <div class="card bg-dark text-white">
                         <img src="img/Recent_news_1.png" class="card-img-top" alt="Recent News">
-                        <div class="card-img-overlay card-footer p-5">
+                        <div class="card-img-overlay recent_activites">
                             <div class="card_bottom pt-5 mt-5">
-                                <h5 class="pt-5 mt-5">Card title</h5>
-                                <p>This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                <p class="pt-5 mt-5"> Programiz: An e-Learning Platform from Nepal has now Reached 15 Million pageviews/month in the Global 
+                                    Market</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Recent activities Session Closed -->
+    <!-- Recent activities Session Closed -->
     </section>
     <!-- Footer Session Opened -->
     <footer class="footer-section mt-5">
