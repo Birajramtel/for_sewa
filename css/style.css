@@ -91,3 +91,10 @@ a.footer_link {
   text-decoration: underline;
 }
 /* Footer Closed  */
+
+.para_align{
+  text-align: justify;
+}
+.background_hero{
+  background-color: #104fa0;
+}
