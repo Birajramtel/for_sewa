@@ -170,7 +170,8 @@
                   <h2 class="text-white">Key Activities</h2>
                   <ul style="list-style-type:none;">
                       <li><a class="footer_link" href="#">Import and Export</a></li>
-                      <li><a class="footer_link" href="package.php">Real Estate</a></li>
+                      <li><a class="footer_link" href="#">Hardware</a></li>
+                      <li><a class="footer_link" href="#">Real Estate</a></li>
                       <li><a class="footer_link" href="#">Foods and Grains</a></li>
                       <li><a class="footer_link" href="#">Construction</a></li>
                       <li><a class="footer_link" href="#">Machineries</a></li>
