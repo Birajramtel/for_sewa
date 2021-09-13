@@ -64,13 +64,13 @@
                 </div>
           </div>
           <div class="carousel-item">
-            <img src="img/Slider_1.png" class="d-block w-100" alt="Home page Image">
+            <img src="img/Slider_2.png" class="d-block w-100" alt="Home page Image">
                 <div class="carousel-caption d-none d-md-block">
                   <h2 class="header_1 pb-5"> Your home <br> away from Home.</h2>
                 </div>
           </div>
           <div class="carousel-item">
-            <img src="img/Slider_1.png" class="d-block w-100" alt="Home page Image">  
+            <img src="img/Slider_3.png" class="d-block w-100" alt="Home page Image">  
             <div class="carousel-caption d-none d-md-block">
                 <h2 class="header_1 pb-5"> Your home <br> away from Home.</h2>
              </div>
@@ -143,32 +143,46 @@
             <div class="row row-cols-1 row-cols-md-2 g-4">
                 <div class="col">
                     <div class="card bg-dark text-white">
-                        <img src="img/Recent_news_3.png" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                            <p class="card-text">Last updated 3 mins ago</p>
+                        <img src="img/Recent_news_1.png" class="card-img" alt="Recent News">
+                        <div class="card-img-overlay  p-5">
+                            <div class="card_bottom pt-5 mt-5">
+                                <h5 class="pt-5 mt-5">Card title</h5>
+                                <p>This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="col">`
+                <div class="col">
                     <div class="card bg-dark text-white">
-                        <img src="img/Recent_news_2.png" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title pt-5 mt-5">Card title</h5>
-                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                            <p class="card-text">Last updated 3 mins ago</p>
+                        <img src="img/Recent_news_2.png" class="card-img" alt="Recent News">
+                        <div class="card-img-overlay p-5">
+                            <div class="card_bottom pt-5 mt-5">
+                                <h5 class="pt-5 mt-5">Card title</h5>
+                                <p>This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="col">
-                    <div class="card card_hero">
-                        <img src="img/Recent_news_3.png" class="card-img-top" alt="...">
+                    <div class="card bg-dark text-white">
+                        <img src="img/Recent_news_3.png" class="card-img-top" alt="Recent News">
+                        <div class="card-img-overlay p-5">
+                            <div class="card_bottom pt-5 mt-5">
+                                <h5 class="pt-5 mt-5">Card title</h5>
+                                <p>This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="col">
-                    <div class="card">
-                        <img src="img/Recent_news_1.png" class="card-img-top" alt="...">
+                    <div class="card bg-dark text-white">
+                        <img src="img/Recent_news_1.png" class="card-img-top" alt="Recent News">
+                        <div class="card-img-overlay card-footer p-5">
+                            <div class="card_bottom pt-5 mt-5">
+                                <h5 class="pt-5 mt-5">Card title</h5>
+                                <p>This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
