@@ -36,7 +36,7 @@
                             <a class="nav-link text-white" href="about.php">About us</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-white" href="activites.php">Activities</a>
+                            <a class="nav-link text-white" href="activities.php">Activities</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-white" href="investor.php">Investor</a>
