@@ -92,19 +92,19 @@
                 <div class="card text-center">
                     <img src="img/activities_1.png" class="card-img" alt="Import and Export">
                     <div class="card-img-overlay">
-                        <h3 class="card-body img-fluid text-white">Import and Export</h3>
+                        <a href="import_and_export.php"><h3 class="card-body img-fluid text-white">Import and Export</h3></a>
                     </div>
                 </div>
                 <div class="card text-center">
                     <img src="img/activities_2.png" class="card-img" alt="Hardware">
                     <div class="card-img-overlay">
-                        <h3 class="card-body text-white">Hardware</h3>
+                        <a href="hardware.php"><h3 class="card-body text-white">Hardware</h3></a>
                     </div>
                 </div>
                 <div class="card text-center">
                     <img src="img/activities_3.png" class="card-img" alt="Real Estate">
                     <div class="card-img-overlay">
-                        <h3 class="card-body img-fluid text-white">Real Estate</h3>
+                        <a href="real_estate.php"><h3 class="card-body img-fluid text-white">Real Estate</h3></a>
                     </div>
                 </div>                
             </div>
@@ -112,19 +112,19 @@
                 <div class="card text-center">
                     <img src="img/activities_4.png" class="card-img" alt="Foods and Grains">
                     <div class="card-img-overlay">
-                        <h3 class="card-body img-fluid text-white">Foods and Grains</h3>
+                        <a href="food_and_grain.php"><h3 class="card-body img-fluid text-white">Foods and Grains</h3></a>
                     </div>
                 </div> 
                 <div class="card text-center">
                     <img src="img/activities_5.png" class="card-img" alt="Construction">
                     <div class="card-img-overlay">
-                        <h3 class="card-body img-fluid text-white">Construction</h3>
+                        <a href="construction.php"><h3 class="card-body img-fluid text-white">Construction</h3></a>
                     </div>
                 </div> 
                 <div class="card text-center">
                     <img src="img/activities_6.png" class="card-img" alt="Machineries">
                     <div class="card-img-overlay">
-                        <h3 class="card-body img-fluid text-white">Machineries</h3>
+                        <a href="machineries.php"><h3 class="card-body img-fluid text-white">Machineries</h3></a>
                     </div>
                 </div> 
             </div>
@@ -132,19 +132,19 @@
                 <div class="card text-center">
                     <img src="img/activities_7.png" class="card-img" alt="IT services">
                     <div class="card-img-overlay">
-                        <h3 class="card-body img-fluid text-white">IT services</h3>
+                        <a href="it_services.php"><h3 class="card-body img-fluid text-white">IT services</h3></a>
                     </div>
                 </div> 
                 <div class="card text-center">
                     <img src="img/activities_8.png" class="card-img" alt="Electronics">
                     <div class="card-img-overlay">
-                        <h3 class="card-body img-fluid text-white">Electronics</h3>
+                        <a href="electronics.php"><h3 class="card-body img-fluid text-white">Electronics</h3></a>
                     </div>
                 </div> 
                 <div class="card text-center">
                     <img src="img/activities_9.png" class="card-img" alt="Fashion Hub">
                     <div class="card-img-overlay">
-                        <h3 class="card-body img-fluid text-white">Fashion Hub</h3>
+                        <a href="fashion_hub.php"><h3 class="card-body img-fluid text-white">Fashion Hub</h3></a>
                     </div>
                 </div> 
             </div>
