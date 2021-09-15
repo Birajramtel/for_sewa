@@ -98,7 +98,7 @@
                     <div class="card">
                         <img src="img/real_estate_1.png" class="card-img-top" alt="House to Buy">
                         <div class="card-body">
-                            <h5 class="card-title Header_2">House to Buy</h5>
+                            <h5 class="card-title Header_2"><strong>House to Buy</strong></h5>
                             <p class="card-text para_align">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et enim sapien. Curabitur 
                                 tortor elit, feugiat at dui nec, vestibulum plaicerat turpis. Donec tempor ipsum sit 
@@ -114,7 +114,7 @@
                     <div class="card">
                         <img src="img/real_estate_2.png" class="card-img-top" alt="Real State Business">
                         <div class="card-body">
-                            <h5 class="card-title Header_2">House on Rent</h5>
+                            <h5 class="card-title Header_2"><strong>House on Rent</strong></h5>
                             <p class="card-text para_align">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et enim sapien. Curabitur 
                                 tortor elit, feugiat at dui nec, vestibulum plaicerat turpis. Donec tempor ipsum sit 
@@ -130,7 +130,7 @@
                     <div class="card">
                         <img src="img/real_estate_3.png" class="card-img-top" alt="Real Estate House">
                         <div class="card-body">
-                            <h5 class="card-title Header_2">House on Rent</h5>
+                            <h5 class="card-title Header_2"><strong>House on Rent</strong></h5>
                             <p class="card-text para_align pb-0">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et enim sapien. Curabitur 
                                 tortor elit, feugiat at dui nec, vestibulum plaicerat turpis. Donec tempor ipsum sit 
@@ -138,6 +138,7 @@
                                 turpis, id facilisis lacus risus a sapien. Nulla in sodales mauris. Fusce tempor posuere 
                                 est, id bibendum urna sodales in. Aliquam ac orci ullamcorper, volutpat orci non, euismod 
                                 turpis. Nam a iaculis felis.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -145,7 +146,7 @@
                     <div class="card">
                         <img src="img/real_estate_4.png" class="card-img-top" alt="Real Estate House">
                         <div class="card-body">
-                            <h5 class="card-title Header_2">House on Rent</h5>
+                            <h5 class="card-title Header_2"><strong>House on Rent</strong></h5>
                             <p class="card-text para_align">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et enim sapien. Curabitur 
                                 tortor elit, feugiat at dui nec, vestibulum plaicerat turpis. Donec tempor ipsum sit 
