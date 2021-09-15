@@ -98,7 +98,7 @@
                     <div class="card">
                         <img src="img/Hardware_1.png" class="card-img-top" alt="DSLR Camera">
                         <div class="card-body">
-                            <h5 class="card-title Header_2">DSLR Camera</h5>
+                            <h5 class="card-title Header_2"><strong>DSLR Camera</strong></h5>
                             <p class="card-text para_align">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et enim sapien. Curabitur 
                                 tortor elit, feugiat at dui nec, vestibulum plaicerat turpis. Donec tempor ipsum sit 
@@ -114,7 +114,7 @@
                     <div class="card">
                         <img src="img/Hardware_2.png" class="card-img-top" alt="Memory">
                         <div class="card-body">
-                            <h5 class="card-title Header_2">RAM Memory</h5>
+                            <h5 class="card-title Header_2"><strong>RAM Memory</strong></h5>
                             <p class="card-text para_align">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et enim sapien. Curabitur 
                                 tortor elit, feugiat at dui nec, vestibulum plaicerat turpis. Donec tempor ipsum sit 
@@ -130,7 +130,7 @@
                     <div class="card">
                         <img src="img/Hardware_3.png" class="card-img-top" alt="Motherboard">
                         <div class="card-body">
-                            <h5 class="card-title Header_2">Motherboard</h5>
+                            <h5 class="card-title Header_2"><strong>Motherboard</strong></h5>
                             <p class="card-text para_align pb-0">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et enim sapien. Curabitur 
                                 tortor elit, feugiat at dui nec, vestibulum plaicerat turpis. Donec tempor ipsum sit 
@@ -138,6 +138,7 @@
                                 turpis, id facilisis lacus risus a sapien. Nulla in sodales mauris. Fusce tempor posuere 
                                 est, id bibendum urna sodales in. Aliquam ac orci ullamcorper, volutpat orci non, euismod 
                                 turpis. Nam a iaculis felis.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -145,7 +146,7 @@
                     <div class="card">
                         <img src="img/Hardware_4.png" class="card-img-top" alt="Intel Processor">
                         <div class="card-body">
-                            <h5 class="card-title Header_2">Intel Processor</h5>
+                            <h5 class="card-title Header_2"><strong>Intel Processor</strong></h5>
                             <p class="card-text para_align">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et enim sapien. Curabitur 
                                 tortor elit, feugiat at dui nec, vestibulum plaicerat turpis. Donec tempor ipsum sit 
