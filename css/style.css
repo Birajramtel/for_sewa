@@ -105,3 +105,38 @@ a.footer_link {
   background-size: cover;
   color: white;
 }
+
+/* Button Attribute Opened */
+.btn-colour-1 {
+  color: #fff;
+  background-color: #61483a;
+  border-color: #61483a;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  border-radius: 0;
+}
+.btn-colour-1:hover,
+.btn-colour-1:active,
+.btn-colour-1:focus,
+.btn-colour-1.active {
+  /* let's darken #004E64 a bit for hover effect */
+  background: #61483a;
+  color: #ffffff;
+  border-color: #61483a;
+}
+
+a.footer_link {
+  color: #dda140;
+  background-color: transparent;
+  text-decoration: none;
+}
+.footer_link:hover {
+  color: #fff;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.footer_link:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
