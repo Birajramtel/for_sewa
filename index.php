@@ -54,7 +54,7 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/Slider_1.png" class="d-block w-100 h-100" alt="Hotel View">
+                <img src="img/Slider_1.png" class="d-block w-100" alt="Hotel View">
                 <div class="carousel-caption d-none d-md-block">
                     <h2 class="header_1 pb-5">Fulfilling Your Needs</h2>
                 </div>
@@ -200,7 +200,7 @@
               <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
                   <h2 class="text-white">About us</h2>
                   <ul style="list-style-type:none;">
-                      <li><a class="footer_link" href="#">About ForSewa</a></li>
+                      <li><a class="footer_link" href="about.php">About ForSewa</a></li>
                       <li><a class="footer_link" href="package.php">Financial Reports</a></li>
                   </ul>
                   <div class="footer-social-icon mt-2">
