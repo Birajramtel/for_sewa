@@ -7,18 +7,11 @@
 }
 body {
   font-family: "Adamina", serif;
-  font-size: 14px;
+  font-size: 16px;
 }
 
-.activity_image {
-  position: relative;
-}
-.activity_title {
-    position: absolute; 
-    top:0%;
-    bottom: 0%;
-    left: 0%;
-    right: 0%;
+.bg-menu {
+  background-color: #212529 !important;
 }
 
 .bg_image {
@@ -30,6 +23,19 @@ body {
   position: relative;
   background-attachment: fixed;
 }
+.header_1{
+  font-size: 50px;
+  padding-top: 150px;
+}
+.carousel-caption {
+  position: absolute;
+  z-index: 10;
+  text-align: left;
+  float: left;
+  top: 20%;
+  left: 9%;
+}
+
 .header_2{
   font-size: 50px;
   padding-top: 150px;
@@ -125,17 +131,17 @@ a.footer_link {
   border-color: #61483a;
 }
 
-a.footer_link {
-  color: #dda140;
+a.activity_hero {
   background-color: transparent;
   text-decoration: none;
+  font-size: 18px;
 }
-.footer_link:hover {
+.activity_hero:hover {
   color: #fff;
   background-color: transparent;
   text-decoration: underline;
 }
-.footer_link:active {
+.activity_hero:active {
   color: yellow;
   background-color: transparent;
   text-decoration: underline;
