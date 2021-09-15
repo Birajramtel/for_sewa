@@ -179,15 +179,15 @@
               <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
                   <h2 class="text-white">Key Activities</h2>
                   <ul style="list-style-type:none;">
-                      <li><a class="footer_link" href="#">Import and Export</a></li>
-                      <li><a class="footer_link" href="#">Hardware</a></li>
-                      <li><a class="footer_link" href="#">Real Estate</a></li>
-                      <li><a class="footer_link" href="#">Foods and Grains</a></li>
-                      <li><a class="footer_link" href="#">Construction</a></li>
-                      <li><a class="footer_link" href="#">Machineries</a></li>
-                      <li><a class="footer_link" href="#">IT services</a></li>
-                      <li><a class="footer_link" href="#">Electronics</a></li>
-                      <li><a class="footer_link" href="#">Fashion Hub</a></li>
+                    <li><a class="footer_link" href="import_and_export.php">Import and Export</a></li>
+                    <li><a class="footer_link" href="hardware.php">Hardware</a></li>
+                    <li><a class="footer_link" href="real_estate.php">Real Estate</a></li>
+                    <li><a class="footer_link" href="food_and_grain.php">Foods and Grains</a></li>
+                    <li><a class="footer_link" href="#">Construction</a></li>
+                    <li><a class="footer_link" href="machineries.php">Machineries</a></li>
+                    <li><a class="footer_link" href="#">IT services</a></li>
+                    <li><a class="footer_link" href="#">Electronics</a></li>
+                    <li><a class="footer_link" href="fashion_hub.php">Fashion Hub</a></li>
                   </ul>
               </div>
               <div class="col-md-3 col-sm-6 col-xm-12 mt-3">

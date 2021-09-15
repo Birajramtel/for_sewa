@@ -98,7 +98,7 @@
                     <div class="card">
                         <img src="img/import_and_export_1.png" class="card-img-top" alt="Shipping Goods">
                         <div class="card-body">
-                            <h5 class="card-title Header_2">Shipping Goods</h5>
+                            <h5 class="card-title Header_2"><strong>Shipping Goods</strong></h5>
                             <p class="card-text para_align">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et enim sapien. Curabitur 
                                 tortor elit, feugiat at dui nec, vestibulum plaicerat turpis. Donec tempor ipsum sit 
@@ -114,7 +114,7 @@
                     <div class="card">
                         <img src="img/import_and_export_2.png" class="card-img-top" alt="WareHouse">
                         <div class="card-body">
-                            <h5 class="card-title Header_2">WareHouse</h5>
+                            <h5 class="card-title Header_2"><strong>WareHouse</strong></h5>
                             <p class="card-text para_align">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et enim sapien. Curabitur 
                                 tortor elit, feugiat at dui nec, vestibulum plaicerat turpis. Donec tempor ipsum sit 
@@ -130,7 +130,7 @@
                     <div class="card">
                         <img src="img/import_and_export_3.png" class="card-img-top" alt="On Stock Items">
                         <div class="card-body">
-                            <h5 class="card-title Header_2">On Stock Items</h5>
+                            <h5 class="card-title Header_2"><strong>On Stock Items</strong></h5>
                             <p class="card-text para_align pb-0">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et enim sapien. Curabitur 
                                 tortor elit, feugiat at dui nec, vestibulum plaicerat turpis. Donec tempor ipsum sit 
@@ -145,7 +145,7 @@
                     <div class="card">
                         <img src="img/import_and_export_1.png" class="card-img-top" alt="Shipping Goods">
                         <div class="card-body">
-                            <h5 class="card-title Header_2">Shipping Goods</h5>
+                            <h5 class="card-title Header_2"><strong>Shipping Goods</strong></h5>
                             <p class="card-text para_align">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et enim sapien. Curabitur 
                                 tortor elit, feugiat at dui nec, vestibulum plaicerat turpis. Donec tempor ipsum sit 
@@ -179,15 +179,15 @@
               <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
                   <h2 class="text-white">Key Activities</h2>
                   <ul style="list-style-type:none;">
-                      <li><a class="footer_link" href="#">Import and Export</a></li>
-                      <li><a class="footer_link" href="#">Hardware</a></li>
-                      <li><a class="footer_link" href="#">Real Estate</a></li>
-                      <li><a class="footer_link" href="#">Foods and Grains</a></li>
-                      <li><a class="footer_link" href="#">Construction</a></li>
-                      <li><a class="footer_link" href="#">Machineries</a></li>
-                      <li><a class="footer_link" href="#">IT services</a></li>
-                      <li><a class="footer_link" href="#">Electronics</a></li>
-                      <li><a class="footer_link" href="#">Fashion Hub</a></li>
+                    <li><a class="footer_link" href="import_and_export.php">Import and Export</a></li>
+                    <li><a class="footer_link" href="hardware.php">Hardware</a></li>
+                    <li><a class="footer_link" href="real_estate.php">Real Estate</a></li>
+                    <li><a class="footer_link" href="food_and_grain.php">Foods and Grains</a></li>
+                    <li><a class="footer_link" href="#">Construction</a></li>
+                    <li><a class="footer_link" href="machineries.php">Machineries</a></li>
+                    <li><a class="footer_link" href="#">IT services</a></li>
+                    <li><a class="footer_link" href="#">Electronics</a></li>
+                    <li><a class="footer_link" href="fashion_hub.php">Fashion Hub</a></li>
                   </ul>
               </div>
               <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
