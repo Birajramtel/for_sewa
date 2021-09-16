@@ -1,7 +1,7 @@
 <footer class="footer-section mt-5 mb-1">
       <div class="container">
           <div class="row d-flex justify-content-center">
-              <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
+              <div class="col-md-3 col-sm-6 col-xm-12 mt-5">
                   <h2 class="text-white pb-2">About us</h2>
                   <ul style="list-style-type:none;" class="p-0">
                       <li class="pb-3 pt-2"><a class="footer_link" href="about.php">About ForSewa</a></li>
@@ -13,7 +13,7 @@
                       <a href="#"><i class="fab fa-google-plus-g google-bg"></i></a>
                   </div>
               </div>
-              <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
+              <div class="col-md-3 col-sm-6 col-xm-12 mt-5">
                   <h2 class="text-white">Key Activities</h2>
                   <ul style="list-style-type:none;" class="p-0">
                     <li class="pb-3 pt-4"><a class="footer_link" href="import_and_export.php">Import and Export</a></li>
@@ -27,7 +27,7 @@
                     <li class="pb-3"><a class="footer_link" href="fashion_hub.php">Fashion Hub</a></li>
                   </ul>
               </div>
-              <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
+              <div class="col-md-3 col-sm-6 col-xm-12 mt-5">
                 <h2 class="text-white">Investor</h2>
                   <ul style="list-style-type: none;" class="p-0">
                       <li class="pb-3 pt-4"><a class="footer_link" href="#">Press Release</a></li>
@@ -36,7 +36,7 @@
                       <li class="pb-3"><a class="footer_link" href="#">Meeting</a></li>
                   </ul>
               </div>
-              <div class="col-md-3 col-sm-6 col-xm-12 mt-3 mb-4">
+              <div class="col-md-3 col-sm-6 col-xm-12 mt-5 mb-4">
                   <h2 class="text-white">Contact</h2>
                   <div class="footer-social-icon pt-4">
                       <img src="img/logo.png" class="pb-3 img-fluid" alt="Logo">
