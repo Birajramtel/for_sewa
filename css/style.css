@@ -19,7 +19,7 @@ body {
   background-size: cover;
   background-position: center center;
   background-repeat: none;
-  height: 500px;
+  height: 315px;
   position: relative;
   background-attachment: fixed;
 }
@@ -37,7 +37,8 @@ body {
 
 .header_2{
   font-size: 50px;
-  padding-top: 150px;
+
+  
 }
 
 /* Footer Session opened  */

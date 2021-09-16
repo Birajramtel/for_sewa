@@ -79,7 +79,7 @@
         <!-- Forsewa Key Activities Section Closed -->
 
         <!-- Image Session Opened -->
-        <div class="bg_image mt-5 pt-5">
+        <div class="bg_image d-flex align-items-center mt-5">
             <div class="container">
                 <h2 class="header_2 text-white">Technical Support is Essential</h2>
             </div>
