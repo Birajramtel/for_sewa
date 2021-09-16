@@ -10,7 +10,6 @@
     <header>
         <?php include('./include/header.php') ?>
     </header>  
-
     <!-- Section Opened -->
     <section>
         <!-- Forsewa Key Activities Section Opened -->
@@ -137,8 +136,6 @@
     <!--  jQuery 1.7+  -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="jquery-1.9.1.min.js"></script>
-
-
     <!-- include scripts -->
     <?php include('./include/scripts.php') ?>
 </body>
