@@ -13,15 +13,15 @@
     <!-- Section Opened -->
     <section>
         <!-- About Us page Opened -->
-        <h1 class="text-white pt-5">Construction</h1>
         <!-- About Us page Closed -->
         <div class="container">
+            <h2 class="pt-5 pb-2"><strong>Electronics</strong></h2>
             <div class="row row-cols-1 row-cols-md-2 g-4">
-                <div class="col-md-6">
+                <div class="col-md-4">
                     <div class="card">
                         <img src="img/electronics_1.png" class="card-img-top" alt="Electronics">
                         <div class="card-body">
-                            <h5 class="card-title Header_2"><strong>Electronics</strong></h5>
+                            <h5 class="card-title Header_2 text-center"><strong>Electronics</strong></h5>
                             <p class="card-text para_align">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et enim sapien. Curabitur 
                                 tortor elit, feugiat at dui nec, vestibulum plaicerat turpis. Donec tempor ipsum sit 
@@ -33,11 +33,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-4">
                     <div class="card">
                         <img src="img/electronics_2.png" class="card-img-top" alt="Electronics">
                         <div class="card-body">
-                            <h5 class="card-title Header_2"><strong>Electronics Items</strong></h5>
+                            <h5 class="card-title Header_2 text-center"><strong>Electronics Items</strong></h5>
                             <p class="card-text para_align">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et enim sapien. Curabitur 
                                 tortor elit, feugiat at dui nec, vestibulum plaicerat turpis. Donec tempor ipsum sit 
@@ -49,11 +49,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-4">
                     <div class="card">
                         <img src="img/electronics_3.png" class="card-img-top" alt="Electronics">
                         <div class="card-body">
-                            <h5 class="card-title Header_2"><strong>Electronics Items</strong></h5>
+                            <h5 class="card-title Header_2 text-center"><strong>Electronics Items</strong></h5>
                             <p class="card-text para_align pb-0">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et enim sapien. Curabitur 
                                 tortor elit, feugiat at dui nec, vestibulum plaicerat turpis. Donec tempor ipsum sit 
@@ -65,7 +65,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6">
+                <!-- <div class="col-md-6">
                     <div class="card">
                         <img src="img/electronics_4.png" class="card-img-top" alt="Electronics">
                         <div class="card-body">
@@ -80,7 +80,7 @@
                             </p>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
