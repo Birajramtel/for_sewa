@@ -2,12 +2,14 @@
 <html lang="en">
 
 <head>
-    <?php include('./include/head.php') ?>
+    <?php include('./include/head.php') ?>    
+    <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
-     <!-- Header Opened -->
-     <header>
+    <!-- Header Opened -->
+    <header>
         <?php include('./include/header.php') ?>
     </header>  
     <!-- Section Opened -->
