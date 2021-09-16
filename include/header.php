@@ -2,7 +2,7 @@
  <nav class="navbar fixed-top navbar-expand-lg navbar-dark p-md-3">
         <div class="container">
             <a class="navbar-brand p-0 m-0" href="index.php">
-                <img src="img/logo.png" class="img-fluid" alt="Logo">
+                <img src="img/logo.png" class="img-fluid w-50" alt="Logo">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -40,17 +40,17 @@
             <div class="carousel-item active">
                 <img src="img/Slider_1.png" class="d-block img-fluid" alt="Import And Export">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2 class="header_1 d-md-none d-lg-block">Fulfilling Your Needs</h2>
+                    <h2 class="header_1 d-md-none d-lg-block pt-5 mt-4">Fulfilling Your Needs</h2>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="img/Slider_2.png" class="d-block img-fluid" alt="Hotel View">
+                <img src="img/Slider_2.png" class="d-block img-fluid" alt="Electronics">
                 <div class="carousel-caption d-none d-md-block">
                     <h2 class="header_1 d-md-none d-lg-block">Fulfilling Your Needs</h2>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="img/Slider_3.png" class="d-block img-fluid" alt="Hotel View">
+                <img src="img/Slider_3.png" class="d-block img-fluid h-100" alt="Fashion Hub">
                 <div class="carousel-caption d-none d-md-block">
                     <h2 class="header_1 d-md-none d-lg-block">Fulfilling Your Needs</h2>
                 </div>
