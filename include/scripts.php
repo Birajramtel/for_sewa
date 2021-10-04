@@ -4,13 +4,27 @@
 
       window.addEventListener("scroll", function() {
           if (window.pageYOffset > 100) {
+              nav.classList.add("bg-light", "shadow");
+          } else {
+              nav.classList.remove("bg-light", "shadow");
+          }
+      });
+
+      $(".navbar-toggler").click(function() {
+          $(".bg_nav").toggleClass("bg-menu");
+      });
+    })
+    $(document).ready(function() {
+      var text_change = document.querySelector("text_change");
+
+      window.addEventListener("scroll", function() {
+          if (window.pageYOffset > 100) {
               nav.classList.add("bg-dark", "shadow");
           } else {
               nav.classList.remove("bg-dark", "shadow");
           }
       });
-
-      $(".navbar-toggler").click(function() {
+      $(".navbar-toggler").click(function() {   
           $(".bg_nav").toggleClass("bg-menu");
       });
     })
