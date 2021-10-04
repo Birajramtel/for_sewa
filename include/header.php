@@ -2,28 +2,28 @@
  <nav class="navbar fixed-top navbar-expand-lg navbar-dark p-md-3">
         <div class="container">
             <a class="navbar-brand p-0 m-0" href="index.php">
-                <img src="img/logo.png" class="img-fluid w-70" alt="Logo">
+                <img src="img/Forsewa_logo.png" class="img-fluid w-50 d-block" alt="Logo">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="bg_nav collapse navbar-collapse" id="navbarNav">
                 <div class="mx-auto"></div>
-                <ul class="navbar-nav">
+                <ul class="navbar-nav text_change">
                     <li class="nav-item p-3 pb-0 pt-0">
                         <a class="nav-link active" href="index.php">Home</a>
                     </li>
                     <li class="nav-item p-3 pb-0 pt-0">
-                        <a class="nav-link text-white" href="about.php">About us</a>
+                        <a class="nav-link" href="about.php">About us</a>
                     </li>
                     <li class="nav-item p-3 pb-0 pt-0">
-                        <a class="nav-link text-white" href="activities.php">Activities</a>
+                        <a class="nav-link" href="activities.php">Activities</a>
                     </li>
                     <li class="nav-item p-3 pb-0 pt-0">
-                        <a class="nav-link text-white" href="investor.php">Investor</a>
+                        <a class="nav-link" href="investor.php">Investor</a>
                     </li>
                     <li class="nav-item p-3 pb-0 pt-0">
-                        <a class="nav-link text-white" href="contact.php">Contact Us</a>
+                        <a class="nav-link" href="contact.php">Contact Us</a>
                     </li>
                 </ul>
             </div>
