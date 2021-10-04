@@ -39,7 +39,7 @@
               <div class="col-md-3 col-sm-6 col-xm-12 mt-5 mb-4">
                   <h2 class="text-white">Contact</h2>
                   <div class="footer-social-icon pt-4">
-                      <img src="img/logo.png" class="pb-3 img-fluid" alt="Logo">
+                      <img src="img/Forsewa 1.png" class="img-fluid w-50 d-block" alt="Logo">
                       <span class="text-white pb-3">Copyright © 2021 ForSewa Pvt. Ltd </span>
                       <span class="text-white pb-3">All rights reserved  Powered by ForSewa</span>
                       <span class="text-white pb-3">Privacy Policy</span>
