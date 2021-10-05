@@ -11,19 +11,19 @@
                 <div class="mx-auto"></div>
                 <ul class="navbar-nav text_change">
                     <li class="nav-item p-3 pb-0 pt-0">
-                        <a class="nav-link active" href="index.php">Home</a>
+                        <a class="nav-link text-light" href="index.php">Home</a>
                     </li>
                     <li class="nav-item p-3 pb-0 pt-0">
-                        <a class="nav-link" href="about.php">About us</a>
+                        <a class="nav-link text-light" href="about.php">About us</a>
                     </li>
                     <li class="nav-item p-3 pb-0 pt-0">
-                        <a class="nav-link" href="activities.php">Activities</a>
+                        <a class="nav-link text-light" href="activities.php">Activities</a>
                     </li>
                     <li class="nav-item p-3 pb-0 pt-0">
-                        <a class="nav-link" href="investor.php">Investor</a>
+                        <a class="nav-link text-light" href="investor.php">Investor</a>
                     </li>
                     <li class="nav-item p-3 pb-0 pt-0">
-                        <a class="nav-link" href="contact.php">Contact Us</a>
+                        <a class="nav-link text-light" href="contact.php">Contact Us</a>
                     </li>
                 </ul>
             </div>
