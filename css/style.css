@@ -41,11 +41,11 @@ body {
 
 /* Footer Session opened  */
 .footer-section {
-  background: #151414;
+  background: #302a2a;
   position: relative;
 }
 .footer-cta {
-  border-bottom: 1px solid #373636;
+  border-bottom: 1px solid #474545;
 }
 .single-cta i {
   color: #dda140;
