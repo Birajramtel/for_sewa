@@ -13,19 +13,27 @@
       $(".navbar-toggler").click(function() {
           $(".bg_nav").toggleClass("bg-menu");
       });
-    })
-    $(document).ready(function() {
-      var text_change = document.querySelector("text_change");
 
       window.addEventListener("scroll", function() {
-          if (window.pageYOffset > 100) {
-              nav.classList.add("bg-dark", "shadow");
+        //   if (window.pageYOffset > 100) {
+        //       text_change.classList.add("bg-dark", "shadow");
+        //   } else {
+        //       text_change.classList.remove("bg-dark", "shadow");
+        //   }
+        const nav_item = document.querySelectorAll(".nav-link");
+            console.log(typeof nav_item)
+
+          nav_item.forEach(element => {
+            if (window.pageYOffset > 100) {
+              element.classList.add("text-dark");
           } else {
-              nav.classList.remove("bg-dark", "shadow");
+              element.classList.remove("text-dark");
           }
+          });
       });
       $(".navbar-toggler").click(function() {   
           $(".bg_nav").toggleClass("bg-menu");
       });
+      
     })
   </script>
