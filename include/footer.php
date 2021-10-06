@@ -9,7 +9,7 @@
                   </ul>
                   <div class="footer-social-icon mt-2">
                       <a href="https://www.facebook.com/Naava-Resort-Retreat-100547551927011/"><i class="fab fa-facebook-f facebook-bg"></i></a>
-                      <a href="#"><i class="fab fa-twitter twitter-bg"></i></a>
+                      <a href="#"><i class="fab fa-instagram instagram-bg"></i></a>
                       <a href="#"><i class="fab fa-google-plus-g google-bg"></i></a>
                   </div>
               </div>
