@@ -24,7 +24,8 @@ body {
   background-attachment: fixed;
 }
 .header_1{
-  font-size: 50px;
+  font-size: 44px;
+  color:rgb(20, 19, 19);
 }
 .carousel-caption {
   position: absolute;
@@ -38,7 +39,15 @@ body {
 .header_2{
   font-size: 50px;
 }
-
+#services{
+  color:rgb(20, 19, 19);
+}
+#services_1{
+  color:rgb(20, 19, 19);
+}
+#services_2{
+  color:rgb(20, 19, 19);
+}
 /* Footer Session opened  */
 .footer-section {
   background: #302a2a;
