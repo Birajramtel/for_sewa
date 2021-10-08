@@ -11,19 +11,19 @@
                 <div class="mx-auto"></div>
                 <ul class="navbar-nav text_change">
                     <li class="nav-item p-3 pb-0 pt-0">
-                        <a class="nav-link text-light" href="index.php">Home</a>
+                        <a class="nav-link text-dark" href="index.php">Home</a>
                     </li>
                     <li class="nav-item p-3 pb-0 pt-0">
-                        <a class="nav-link text-light" href="about.php">About us</a>
+                        <a class="nav-link text-dark" href="about.php">About us</a>
                     </li>
                     <li class="nav-item p-3 pb-0 pt-0">
-                        <a class="nav-link text-light" href="activities.php">Activities</a>
+                        <a class="nav-link text-dark" href="activities.php">Activities</a>
                     </li>
                     <li class="nav-item p-3 pb-0 pt-0">
-                        <a class="nav-link text-light" href="investor.php">Investor</a>
+                        <a class="nav-link text-dark" href="investor.php">Investor</a>
                     </li>
                     <li class="nav-item p-3 pb-0 pt-0">
-                        <a class="nav-link text-light" href="contact.php">Contact Us</a>
+                        <a class="nav-link text-dark" href="contact.php">Contact Us</a>
                     </li>
                 </ul>
             </div>
@@ -38,21 +38,25 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/Slider_1 1.png" class="d-block img-fluid" alt="Import And Export">
+                <img src="img/homepage.png" class="d-block img-fluid" alt="Import And Export">
                 <div class="carousel-caption d-none d-md-block">
                     <h2 class="header_1 d-md-none d-lg-block pt-5 mt-4">Chain of Trust and Support</h2>
+                    <p id="services"> Our Services - </p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="img/Slider_2 2.png" class="d-block img-fluid" alt="Electronics">
+                <img src="img/Import and Export.png" class="d-block img-fluid" alt="Electronics">
                 <div class="carousel-caption d-none d-md-block">
+                    <p></p>
                     <h2 class="header_1 d-md-none d-lg-block pt-5 mt-4">Chain of Trust and Support</h2>
+                    <p id="services_1" > Our Services - </p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="img/Slider_3 3.png" class="d-block img-fluid h-100" alt="Fashion Hub">
+                <img src="img/Import and Export.png" class="d-block img-fluid h-100" alt="Fashion Hub">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2 class="header_1 d-md-none d-lg-block pt-5 mt-4">Chain of Trust and Support</h2>
+                <h2 class="header_1 d-md-none d-lg-block pt-5 mt-4">Chain of Trust and Support</h2>
+                    <p id="services_2"> Our Services - </p>
                 </div>
             </div>
         </div>
