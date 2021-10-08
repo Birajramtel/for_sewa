@@ -138,6 +138,8 @@
     <script src="jquery-1.9.1.min.js"></script>
     <!-- include scripts -->
     <?php include('./include/scripts.php') ?>
+    <script src="https://unpkg.com/typeit@8.0.3/dist/index.umd.js"></script>
+    <script src="./js/typeit.js"></script>
 </body>
 
 </html>
