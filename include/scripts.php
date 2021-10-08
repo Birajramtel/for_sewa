@@ -24,11 +24,11 @@
             console.log(typeof nav_item)
 
           nav_item.forEach(element => {
-            if (window.pageYOffset > 100) {
-              element.classList.add("text-dark");
-          } else {
-              element.classList.remove("text-dark");
-          }
+        //     if (window.pageYOffset > 100) {
+        //       element.classList.add("text-dark");
+        //   } else {
+        //       element.classList.remove("text-dark");
+        //   }
           });
       });
       $(".navbar-toggler").click(function() {   
