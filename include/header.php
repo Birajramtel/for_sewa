@@ -1,5 +1,5 @@
  <!-- NavBar started -->
- <nav class="navbar fixed-top navbar-expand-lg navbar-dark p-md-3">
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark p-md-3">
         <div class="container">
             <a class="navbar-brand p-0 m-0" href="index.php">
                 <img src="img/Forsewa_logo.png" class="img-fluid w-50 d-block" alt="Logo">
