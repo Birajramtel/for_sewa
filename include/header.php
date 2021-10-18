@@ -38,14 +38,14 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/homepage.png" class="d-block img-fluid" alt="Import And Export">
+                <img src="img/Slider_1.png" class="d-block img-fluid" alt="Import And Export">
                 <div class="carousel-caption d-none d-md-block">
                     <h2 class="header_1 d-md-none d-lg-block pt-5 mt-4">Chain of Trust and Support</h2>
                     <p id="services"> Our Services - </p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="img/Import and Export.png" class="d-block img-fluid" alt="Electronics">
+                <img src="img/Slider_2.png" class="d-block img-fluid" alt="Electronics">
                 <div class="carousel-caption d-none d-md-block">
                     <p></p>
                     <h2 class="header_1 d-md-none d-lg-block pt-5 mt-4">Chain of Trust and Support</h2>
@@ -53,7 +53,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="img/Import and Export.png" class="d-block img-fluid h-100" alt="Fashion Hub">
+                <img src="img/Slider_3.png" class="d-block img-fluid h-100" alt="Fashion Hub">
                 <div class="carousel-caption d-none d-md-block">
                 <h2 class="header_1 d-md-none d-lg-block pt-5 mt-4">Chain of Trust and Support</h2>
                     <p id="services_2"> Our Services - </p>

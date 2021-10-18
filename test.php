@@ -89,34 +89,34 @@
     <!-- Recent activities Session Opened -->
     <div class="container mt-5">
         <h1 class="pb-3">About Us</h1>
-                <p class="para_align">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et enim sapien. Curabitur tortor elit, 
-                    feugiat at dui nec, vestibulum placerat turpis. Donec tempor ipsum sit amet tempor convallis. Morbi 
-                    iaculis, nibh sed congue ultrices, ipsum nibh dignissim turpis, id facilisis lacus risus a sapien. 
-                    Nulla in sodales mauris. Fusce tempor posuere est, id bibendum urna sodales in. Aliquam ac orci ullamcorper, 
-                    volutpat orci non, euismod turpis. Nam a iaculis felis. Etiam risus felis, eleifend non gravida sed, viverra 
-                    non lacus. Quisque tristique ipsum auctor laoreet consequat. Fusce varius cursus convallis. Vivamus gravida 
-                    erat quis velit fringilla molestie.
-                </p>
-                <br>
-                <p class="para_align">
-                    Nam sed risus quis velit mattis tempor. Nunc non libero blandit lacus scelerisque luctus rhoncus at nunc. 
-                    Vivamus non tempus lorem. Vestibulum at maximus sem. Donec et est ac arcu tincidunt mollis ut sed neque. 
-                    In sollicitudin efficitur felis, in auctor sapien lobortis sit amet. Integer suscipit porta nulla quis 
-                    pretium. Vivamus non velit eu leo consequat laoreet. Donec eget augue nisi. Suspendisse posuere pulvinar 
-                    iaculis. Quisque pretium pretium sem in sodales. Praesent ultrices metus vitae eros bibendum rhoncus. Mauris 
-                    at consequat purus. Nulla orci nulla, pellentesque a convallis non, tempus vitae eros. Praesent sem mauris, 
-                    consequat vel ligula ut, volutpat condimentum felis. 
-                </p>
-                <br>
-                <p class="para_align">
-                    Nam sed risus quis velit mattis tempor. Nunc non libero blandit lacus scelerisque luctus rhoncus at nunc. 
-                    Vivamus non tempus lorem. Vestibulum at maximus sem. Donec et est ac arcu tincidunt mollis ut sed neque. 
-                    In sollicitudin efficitur felis, in auctor sapien lobortis sit amet. Integer suscipit porta nulla quis 
-                    pretium. Vivamus non velit eu leo consequat laoreet. Donec eget augue nisi. Suspendisse posuere pulvinar 
-                    iaculis. Quisque pretium pretium sem in sodales. Praesent ultrices metus vitae eros bibendum rhoncus. Mauris
-                    at consequat purus. 
-                </p>
+        <p class="para_align">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et enim sapien. Curabitur tortor elit, 
+            feugiat at dui nec, vestibulum placerat turpis. Donec tempor ipsum sit amet tempor convallis. Morbi 
+            iaculis, nibh sed congue ultrices, ipsum nibh dignissim turpis, id facilisis lacus risus a sapien. 
+            Nulla in sodales mauris. Fusce tempor posuere est, id bibendum urna sodales in. Aliquam ac orci ullamcorper, 
+            volutpat orci non, euismod turpis. Nam a iaculis felis. Etiam risus felis, eleifend non gravida sed, viverra 
+            non lacus. Quisque tristique ipsum auctor laoreet consequat. Fusce varius cursus convallis. Vivamus gravida 
+            erat quis velit fringilla molestie.
+        </p>
+        <br>
+        <p class="para_align">
+            Nam sed risus quis velit mattis tempor. Nunc non libero blandit lacus scelerisque luctus rhoncus at nunc. 
+            Vivamus non tempus lorem. Vestibulum at maximus sem. Donec et est ac arcu tincidunt mollis ut sed neque. 
+            In sollicitudin efficitur felis, in auctor sapien lobortis sit amet. Integer suscipit porta nulla quis 
+            pretium. Vivamus non velit eu leo consequat laoreet. Donec eget augue nisi. Suspendisse posuere pulvinar 
+            iaculis. Quisque pretium pretium sem in sodales. Praesent ultrices metus vitae eros bibendum rhoncus. Mauris 
+            at consequat purus. Nulla orci nulla, pellentesque a convallis non, tempus vitae eros. Praesent sem mauris, 
+            consequat vel ligula ut, volutpat condimentum felis. 
+        </p>
+        <br>
+        <p class="para_align">
+            Nam sed risus quis velit mattis tempor. Nunc non libero blandit lacus scelerisque luctus rhoncus at nunc. 
+            Vivamus non tempus lorem. Vestibulum at maximus sem. Donec et est ac arcu tincidunt mollis ut sed neque. 
+            In sollicitudin efficitur felis, in auctor sapien lobortis sit amet. Integer suscipit porta nulla quis 
+            pretium. Vivamus non velit eu leo consequat laoreet. Donec eget augue nisi. Suspendisse posuere pulvinar 
+            iaculis. Quisque pretium pretium sem in sodales. Praesent ultrices metus vitae eros bibendum rhoncus. Mauris
+            at consequat purus. 
+        </p>
     </div>
     <!-- Recent activities Session Closed -->
     </section>
