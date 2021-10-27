@@ -32,7 +32,7 @@
     <!-- Banner Image  -->
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
         <div class="container">
-            <div class="carousel-caption d-xm-none d-md-block">
+            <div class="carousel-caption d-xm-none d-md-block ">
                 <h2 class="header_1 d-xm-none d-lg-block Header_change">Chain of Trust and Support</h2>
                 <p id="services"> Our Services - </p>
             </div>
