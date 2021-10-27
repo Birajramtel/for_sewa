@@ -8,7 +8,45 @@
 <body>
     <!-- Header Opened -->
     <header>
-        <?php include('./include/header.php') ?>
+        <nav class="navbar fixed-top navbar-expand-lg navbar-dark p-md-3">
+            <div class="container">
+                <a class="navbar-brand p-0 m-0" href="index.php">
+                    <img src="img/Forsewa_logo.png" class="img-fluid w-50 d-block" alt="Logo">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="bg_nav collapse navbar-collapse" id="navbarNav">
+                    <div class="mx-auto"></div>
+                    <ul class="navbar-nav text_change">
+                        <li class="nav-item p-3 pb-0 pt-0">
+                            <a class="nav-link text-dark" href="index.php">Home</a>
+                        </li>
+                        <li class="nav-item p-3 pb-0 pt-0">
+                            <a class="nav-link text-dark" href="about.php">About us</a>
+                        </li>
+                        <li class="nav-item p-3 pb-0 pt-0">
+                            <a class="nav-link text-dark" href="activities.php">Activities</a>
+                        </li>
+                        <li class="nav-item p-3 pb-0 pt-0">
+                            <a class="nav-link text-dark" href="investor.php">Investor</a>
+                        </li>
+                        <li class="nav-item p-3 pb-0 pt-0">
+                            <a class="nav-link text-dark" href="contact.php">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="cover">
+            <div class="import_and_export">
+                <img src="img/slider_img/It services@3x.png" class="d-block w-100" alt="It services">
+            </div>
+            <div class="container carousel-caption cover_content d-none d-md-block">
+                <h2 class="header_1 d-md-none d-lg-block pt-5 mt-4">Chain of Trust and Support</h2>
+                <p class="text-dark"> Our Service in IT Services. </p>               
+            </div>
+        </div>
     </header>  
     <!-- Section Opened -->
     <section>
