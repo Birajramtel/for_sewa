@@ -119,7 +119,7 @@
         <!-- About Us page Closed -->
 
         <!-- Video Section Opened -->
-        <div class="container">
+        <!-- <div class="container">
             <div class="card-group">
                 <div class="card">
                     <iframe src="https://www.youtube.com/embed/7vQznLKEfBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -142,7 +142,7 @@
                     <iframe src="https://www.youtube.com/embed/7vQznLKEfBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Video Section Closed -->
     </section>
     <!-- Footer Session Opened -->

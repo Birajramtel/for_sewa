@@ -1,5 +1,5 @@
 new TypeIt("#services", {
-    speed: 50,
+    speed: 40,
     waitUntilVisible: true,
     
   })
@@ -16,7 +16,7 @@ new TypeIt("#services", {
     .go();
     
 new TypeIt("#services_1", {
-    speed: 50,
+    speed: 40,
     waitUntilVisible: true,
   })
     
@@ -26,13 +26,13 @@ new TypeIt("#services_1", {
     .type(" Constructions")
     .pause(500)
     .delete(13)
-    .type(" Machineries")
+    .type(" Machineries",{ delay: 600 })
     .pause(600)
     .delete(11)
     .go();
 
 new TypeIt("#services_2", {
-    speed: 50,
+    speed: 40,
     waitUntilVisible: true,
   })
     
