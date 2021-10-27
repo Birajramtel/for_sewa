@@ -1,0 +1,19 @@
+/* tabs view */
+@media screen and (max-width:991px) {
+    .nav_relative{
+        position: relative !important;
+    }
+    .nav_relative.bg-light{
+        position: fixed !important;
+    }
+    .Header_change{
+        font-size: 20px;
+        /* font-weight: bold; */
+    }
+  }
+
+/* mobile view */
+
+@media screen and (max-width:767px) {
+    
+  }

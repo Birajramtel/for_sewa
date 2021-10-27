@@ -1,5 +1,5 @@
  <!-- NavBar started -->
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark p-md-3">
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark p-md-3 nav_relative">
         <div class="container">
             <a class="navbar-brand p-0 m-0 " href="index.php">
                 <img src="img/Forsewa_logo.png" class="img-fluid w-50 d-block icon_logo" alt="Logo">
@@ -32,15 +32,15 @@
     <!-- Banner Image  -->
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
         <div class="container">
-              <div class="carousel-caption d-none d-md-block">
-                <h2 class="header_1 d-md-none d-lg-block pt-5 mt-4">Chain of Trust and Support</h2>
-                    <p id="services"> Our Services - </p>
-                </div>
+            <div class="carousel-caption d-xm-none d-md-block">
+                <h2 class="header_1 d-xm-none d-lg-block Header_change">Chain of Trust and Support</h2>
+                <p id="services"> Our Services - </p>
+            </div>
         </div>
         <div class="carousel-indicators">
-            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            <button type="button" class="d-none d-md-block" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" class="d-none d-md-block" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" class="d-none d-md-block" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
@@ -66,11 +66,11 @@
                 </div> -->
             </div>
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+        <button class="carousel-control-prev d-none d-md-block" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
         </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+        <button class="carousel-control-next d-none d-md-block" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
         </button>
