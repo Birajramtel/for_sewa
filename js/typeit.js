@@ -1,7 +1,6 @@
 new TypeIt("#services", {
     speed: 40,
     waitUntilVisible: true,
-    
   })
     
     .type(" Import and Export")
