@@ -8,7 +8,7 @@
                       <li class="pb-1"><a class="footer_link" href="package.php">Financial Reports</a></li>
                   </ul>
                   <div class="footer-social-icon mt-2">
-                      <a href="https://www.facebook.com/Naava-Resort-Retreat-100547551927011/"><i class="fab fa-facebook-f facebook-bg"></i></a>
+                      <a href="https://www.facebook.com/forsewadidgital"><i class="fab fa-facebook-f facebook-bg"></i></a>
                       <a href="#"><i class="fab fa-instagram instagram-bg"></i></a>
                       <a href="#"><i class="fab fa-google-plus-g google-bg"></i></a>
                   </div>

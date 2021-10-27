@@ -21,8 +21,8 @@
                     <p>For further information, please write-in to:</p> 
                     <p>Forsewa</p>
                     <p>Baneshwor, Kathmandu, Nepal</p>
-                    <p>forsewa@gmail.com</p>
-                    <p>+977 980 123 1234</p>
+                    <p>info@forsewa.com</p>
+                    <p>9801338277</p>
                 </div>
                 <div class="col-md-6">
                     <form>

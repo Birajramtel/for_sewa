@@ -7,7 +7,7 @@
 }
 body {
   font-family: "Adamina", serif;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .bg-menu {
@@ -109,7 +109,7 @@ a.footer_link {
   text-align: justify;
 }
 .background_hero{
-  background-color: #104fa0;
+  background-color: #fefeff;
 }
 
 .recent_activites{
@@ -165,5 +165,8 @@ a.activity_hero {
 }
 
 .footer_logo{
-  margin: 0%;
+  margin: 0;
+}
+.icon_logo{
+  margin: 0 !important;
 }

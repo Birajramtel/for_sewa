@@ -1,8 +1,8 @@
  <!-- NavBar started -->
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark p-md-3">
         <div class="container">
-            <a class="navbar-brand p-0 m-0" href="index.php">
-                <img src="img/Forsewa_logo.png" class="img-fluid w-50 d-block" alt="Logo">
+            <a class="navbar-brand p-0 m-0 " href="index.php">
+                <img src="img/Forsewa_logo.png" class="img-fluid w-50 d-block icon_logo" alt="Logo">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -31,6 +31,12 @@
     </nav>
     <!-- Banner Image  -->
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+        <div class="container">
+              <div class="carousel-caption d-none d-md-block">
+                <h2 class="header_1 d-md-none d-lg-block pt-5 mt-4">Chain of Trust and Support</h2>
+                    <p id="services"> Our Services - </p>
+                </div>
+        </div>
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -39,25 +45,25 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="img/Slider_1.png" class="d-block img-fluid" alt="Import And Export">
-                <div class="carousel-caption d-none d-md-block">
+                <!-- <div class="carousel-caption d-none d-md-block">
                     <h2 class="header_1 d-md-none d-lg-block pt-5 mt-4">Chain of Trust and Support</h2>
                     <p id="services"> Our Services - </p>
-                </div>
+                </div> -->
             </div>
             <div class="carousel-item">
                 <img src="img/Slider_2.png" class="d-block img-fluid" alt="Electronics">
-                <div class="carousel-caption d-none d-md-block">
+                <!-- <div class="carousel-caption d-none d-md-block">
                     <p></p>
                     <h2 class="header_1 d-md-none d-lg-block pt-5 mt-4">Chain of Trust and Support</h2>
                     <p id="services_1" > Our Services - </p>
-                </div>
+                </div> -->
             </div>
             <div class="carousel-item">
                 <img src="img/Slider_3.png" class="d-block img-fluid h-100" alt="Fashion Hub">
-                <div class="carousel-caption d-none d-md-block">
+                <!-- <div class="carousel-caption d-none d-md-block">
                 <h2 class="header_1 d-md-none d-lg-block pt-5 mt-4">Chain of Trust and Support</h2>
                     <p id="services_2"> Our Services - </p>
-                </div>
+                </div> -->
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">

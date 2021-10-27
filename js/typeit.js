@@ -1,8 +1,8 @@
 new TypeIt("#services", {
-    speed: 40,
+    speed: 100,
     waitUntilVisible: true,
+    loop: true,
   })
-    
     .type(" Import and Export")
     .pause(600)
     .delete(17)
@@ -12,13 +12,6 @@ new TypeIt("#services", {
     .type(" Real Estate")
     .pause(500)
     .delete(11)
-    .go();
-    
-new TypeIt("#services_1", {
-    speed: 40,
-    waitUntilVisible: true,
-  })
-    
     .type(" Foods and Grains")
     .pause(600)
     .delete(16)
@@ -28,13 +21,6 @@ new TypeIt("#services_1", {
     .type(" Machineries",{ delay: 600 })
     .pause(600)
     .delete(11)
-    .go();
-
-new TypeIt("#services_2", {
-    speed: 40,
-    waitUntilVisible: true,
-  })
-    
     .type(" IT Services")
     .pause(600)
     .delete(11)
@@ -45,3 +31,4 @@ new TypeIt("#services_2", {
     .pause(600)
     .delete(11)
     .go();
+   
